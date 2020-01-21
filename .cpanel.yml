@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home1/abbotsfo/public_html/arsh_portfolio_site/
-    - /bin/cp -R /home1/abbotsfo/repositories/arsh_portfolio $DEPLOYPATH
+    - /bin/cp -R /home1/abbotsfo/repositories/arsh_portfolio/ $DEPLOYPATH
