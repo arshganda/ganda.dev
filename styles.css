@@ -63,6 +63,9 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
+    width: 375;
+    margin: auto;
 }
 
 .icon-row {
@@ -90,6 +93,16 @@ h6 {
 
 html {
     font-family: 'CircularStd';
+}
+
+.twitter-timeline {
+  width: inherit;
+}
+
+hr {
+  width: inherit;
+  margin: 6;
+  margin-top: 16;
 }
 
 
