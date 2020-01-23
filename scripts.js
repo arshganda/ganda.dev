@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const anchor = document.querySelector('#spotify-song');
         const p = document.createElement('p');
         p.className = 'spotify';
-        p.innerHTML = `I last listened to ${songName} by ${artist} on Spotify.`
+        p.innerHTML = `I last listened to ${songName} by ${artist} on Spotify. 🎶`
 
         anchor.append(p);
     }
