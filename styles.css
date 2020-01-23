@@ -99,6 +99,12 @@ html {
   width: inherit;
 }
 
+.spotify {
+  margin-top: 0;
+  margin-bottom: 8;
+  text-align: center;
+}
+
 hr {
   width: inherit;
   margin: 6;
